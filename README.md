@@ -7,7 +7,7 @@ name, email, bank balance etc. Transaction status: Transaction History which rec
 all customers > Select Money Transactions > Send Money > Enter Sender and Recipients username > than enter amount > send > for check
 transaction history click see all transaction button .
 
-# github link
+# website link
 
-https://github.com/sandipandas1/Sparks_Foundation_Task1
+https://sandipandas1.github.io/Sparks_Foundation_Task1/
 
